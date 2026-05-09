@@ -12,12 +12,15 @@ A análise tem o objetivo de prever o valor da próxima compra do cliente, com b
 # Grupo 
 
 Ana Paula de Oliveira
+
 https://www.linkedin.com/in/anaoliveira00?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 Patricia Oquendo Duran
+
 https://www.linkedin.com/in/patricia-duran/
 
 Rafaella Colaco Almeida
 
 Thaynná Yara Santos Oliveira
+
 https://www.linkedin.com/in/thaynna-yara/

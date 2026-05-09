@@ -9,18 +9,18 @@ Esse projeto faz parte do desafio final da formação em Ciência de Dados do Pr
 
 A análise tem o objetivo de prever o valor da próxima compra do cliente, com base em variáveis de consumo. 
 
-# Grupo 
+## 👥 Grupo 4
 
-Ana Paula de Oliveira
+- 👤 Ana Paula de Oliveira
 
-https://www.linkedin.com/in/anaoliveira00?utm_source=share_via&utm_content=profile&utm_medium=member_android
+https://www.linkedin.com/in/anaoliveira00
 
-Patricia Oquendo Duran
+- 👤 Patricia Oquendo Duran
 
 https://www.linkedin.com/in/patricia-duran/
 
-Rafaella Colaco Almeida
+- 👤 Rafaella Colaco Almeida
 
-Thaynná Yara Santos Oliveira
+- 👤 Thaynná Yara Santos Oliveira
 
 https://www.linkedin.com/in/thaynna-yara/
